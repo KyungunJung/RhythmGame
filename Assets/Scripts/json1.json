@@ -1,0 +1,19 @@
+{
+  "notes": [
+    {
+      "time": 1.0,
+      "lane": 0,
+      "type": "tap"
+    },
+    {
+      "time": 2.0,
+      "lane": 1,
+      "type": "tap"
+    },
+    {
+      "time": 3.0,
+      "lane": 2,
+      "type": "tap"
+    }
+  ]
+}
